@@ -17,17 +17,6 @@ I build gameplay systems in Unity, distributed backend applications, and practic
 **Machine Learning:**
  Scikit-learn · Pandas · NumPy · Data Analysis    
 # 🚀 Projects
-## 🎮 [A* Pathfinding Showcase](https://github.com/Abziii/A-star-showcase)
-
-A Unity-based visualization of the A* pathfinding algorithm with heap optimization for efficient AI navigation and route calculation.
-
-Tech: Unity, C#, Algorithms
-
-Highlights:
-
-Heap optimized open list
-Dynamic path visualization
-Performance-focused pathfinding
 ## 💳 [Payment Cards Network Simulation](https://github.com/FilipSl3/Karty-Platnicze-Aplikacje-Biznesowe)
 
 A microservice-based card payment network inspired by Visa/Mastercard, simulating real-world payment flows, card lifecycle, transaction authorization, settlement, and security layers.
@@ -51,7 +40,18 @@ Features:
  - Expense tracking  
  - Balance calculations  
  - Group settlements  
- - Shared budgeting  
+ - Shared budgeting
+## 🎮 [A* Pathfinding Showcase](https://github.com/Abziii/A-star-showcase)
+
+A Unity-based visualization of the A* pathfinding algorithm with heap optimization for efficient AI navigation and route calculation.
+
+Tech: Unity, C#, Algorithms
+
+Highlights:
+
+Heap optimized open list
+Dynamic path visualization
+Performance-focused pathfinding 
 ## 📈 [Car Market Monitoring & Price Prediction](https://github.com/Natinoo/UR-MODEL-BI)
 
 An application for monitoring car market trends and predicting future prices using machine learning models trained on historical market data.
